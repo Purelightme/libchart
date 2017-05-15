@@ -4,8 +4,7 @@ libchart for php bar/line/pie chart.support chinese
 ##step1  
 composer require purelightme/libchart
 
-##step2
-<?php  
+##step2  
 
 $chart = new VerticalBarChart(500, 250);  
 
