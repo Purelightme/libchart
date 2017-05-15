@@ -1,0 +1,19 @@
+{
+    "name": "purelightme/libchart"
+    "description": "支持中文的PHP图表制作，可直接生成图片文件",
+    "keywords": ["libchart","PHP图表"],
+    "authors": [
+        {
+            "name": "purelightme",
+            "email": "591592159@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+           
+        }
+    }
+}
