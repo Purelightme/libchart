@@ -5,10 +5,8 @@ libchart for php bar/line/pie chart.support chinese
 composer require purelightme/libchart
 
 ##step2
-<?php
 
 include "libchart/classes/libchart.php";
-
 $chart = new VerticalBarChart(500, 250);
 $dataSet = new XYDataSet();
 
