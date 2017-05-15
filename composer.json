@@ -1,5 +1,5 @@
 {
-    "name": "purelightme/libchart"
+    "name": "purelightme/libchart",
     "description": "支持中文的PHP图表制作，可直接生成图片文件",
     "keywords": ["libchart","PHP图表"],
     "authors": [
