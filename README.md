@@ -2,7 +2,7 @@
 libchart for php bar/line/pie chart.support chinese
 
 ## step1  
-composer require purelightme/libchart
+composer require purelightme/libchart:dev-master
 
 ## step2  
 
