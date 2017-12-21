@@ -17,6 +17,6 @@ $dataSet->addPoint(new Point("前制动盘",1));
 $dataSet->addPoint(new Point("雨刷器",1));  
 $dataSet->addPoint(new Point("后减震器",1));  
 
-$chart->setDataSet($dataSet);
-$chart->setTitle("配件统计信息");  
+$chart->setDataSet($dataSet); 
+$chart->setTitle("配件统计信息"); 
 $chart->render("v_bar.png");  
